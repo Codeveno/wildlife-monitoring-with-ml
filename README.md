@@ -44,4 +44,4 @@ Our approach integrates three main architectures: VGG16, ResNet18, and GoogLeNet
 - ⁠[Github Page](https://github.com/aryansaxena094/COMP6721-GroupH)
 
 ### Link to presentation
-- ⁠[Presentation](https://drive.google.com/file/d/1bOpxsvVEDQudKzSqLb6Qoga63ngG2OCC/view?usp=drivesdk)
+- ⁠[Presentation](https://drive.google.com/file/d/1bOpxsvVEDQudKzSqLb6Qoga63ngG2OCC/view?usp=drivesdk)# wildlife-monitoring-with-ml
